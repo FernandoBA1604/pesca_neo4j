@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-Neo4j es una base de datos basada en grafos y relaciones. Ayudenme a meter floro pls
+Neo4j es una base de datos basada en grafos y relaciones. Es escalable y de alto rendimiento que utiliza la teoría de grafos para modelar y gestionar datos. A diferencia de las bases de datos relacionales que utilizan tablas y relaciones, Neo4j representa los datos como nodos y relaciones. Esta representación es particularmente útil para aplicaciones donde las relaciones entre datos son complejas y significativas.
 
 ## Instalación
 ### Requisitos previos
